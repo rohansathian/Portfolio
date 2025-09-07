@@ -566,7 +566,7 @@ a.repeat:hover {
 }
 .pl7{
     position: absolute;
-    top: 588%;
+    top: 568%;
     left: 8%;
     color: white;
     font-size: medium;
@@ -705,3 +705,4 @@ transform: scale(1.1);
     position: sticky !important;
 
 }
+
