@@ -561,12 +561,12 @@ a.repeat:hover {
 .pr1{
     position: absolute;
     width: 600px;
-    top: 535%;
+    top: 525%;
     right: 5%;
 }
 .pl7{
     position: absolute;
-    top: 596%;
+    top: 588%;
     left: 8%;
     color: white;
     font-size: medium;
@@ -703,4 +703,5 @@ transform: scale(1.1);
 }
 .sticky-top{
     position: sticky !important;
+
 }
